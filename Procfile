@@ -1,1 +1,1 @@
-worker: node xersuka.js
+worker: node node.js
