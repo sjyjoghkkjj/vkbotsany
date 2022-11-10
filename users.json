@@ -1,6 +1,6 @@
 [
 	{
-		"id": 514244652,
+		"id": 561335356,
 		"uid": 0,
 		"podpis": 0,
 		"hei": 0,
@@ -69,7 +69,7 @@
 		"pay": false,
 		"biz": 0,
 		"ruda": 0,
-		"alvl": 0,
+		"alvl": 5,
 		"givemyrub": false,
 		"stat": false,
 		"urabota": false,
